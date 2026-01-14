@@ -1,0 +1,1 @@
+Test each endpoint (GET, POST, PUT, DELETE) using a tool like Postman to ensure they work as expected.
